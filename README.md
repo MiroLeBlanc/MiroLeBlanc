@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://miroleblanc.github.io/">
-    <img src="https://miroleblanc.github.io/assets/og/index.jpg" alt="Miro Leblanc — Développeur web et monteur vidéo" width="100%">
+    <img src="https://miroleblanc.github.io/assets/og/index.jpg" alt="Visiter le portfolio de Miro Leblanc" width="100%">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://miroleblanc.github.io/"><img src="https://img.shields.io/badge/%E2%96%B6%20Visiter%20mon%20portfolio-miroleblanc.github.io-0E0B0A?style=for-the-badge&labelColor=C9432B" alt="Visiter mon portfolio" height="40"></a>
 </p>
 
 <h1 align="center">Miro Leblanc</h1>
@@ -10,8 +14,15 @@
   <code>// INTÉGRATION MULTIMÉDIA — VIDÉO / WEB / MOTION</code>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://miroleblanc.github.io/"><img src="https://img.shields.io/badge/Portfolio-miroleblanc.github.io-C9432B?style=for-the-badge&labelColor=0E0B0A" alt="Portfolio"></a>
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Stage%20recherch%C3%A9-C9432B?style=for-the-badge" alt="Stage recherché">
+</p>
+
+<h2 align="center">À la recherche d'un stage en développement web ou en montage vidéo</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/miro-leblanc-4770b6442"><img src="https://img.shields.io/badge/LinkedIn-Miro%20Leblanc-C9432B?style=for-the-badge&logo=linkedin&logoColor=F2E9DD&labelColor=0E0B0A" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@MiroLeBlanc"><img src="https://img.shields.io/badge/YouTube-%40MiroLeBlanc-C9432B?style=for-the-badge&logo=youtube&logoColor=F2E9DD&labelColor=0E0B0A" alt="YouTube"></a>
   <a href="mailto:miroleblanc@gmail.com"><img src="https://img.shields.io/badge/Courriel-miroleblanc%40gmail.com-C9432B?style=for-the-badge&logo=gmail&logoColor=F2E9DD&labelColor=0E0B0A" alt="Courriel"></a>
@@ -24,8 +35,6 @@
 **Développeur web** et **monteur vidéo**, avec un vrai bagage en **vente**. Je construis des choses qui fonctionnent, qui racontent quelque chose, et qui finissent par convaincre — pas juste par bien paraître.
 
 Étudiant en dernière année d'intégration multimédia au **Cégep Édouard-Montpetit** (Longueuil, QC).
-
-> **À la recherche d'un stage en développement web ou en montage vidéo.**
 
 ---
 
@@ -50,7 +59,6 @@
 **Web**  
 ![HTML](https://img.shields.io/badge/HTML-1A1512?style=flat-square&logo=html5&logoColor=F2E9DD)
 ![CSS](https://img.shields.io/badge/CSS-1A1512?style=flat-square&logo=css&logoColor=F2E9DD)
-![Sass](https://img.shields.io/badge/Sass-1A1512?style=flat-square&logo=sass&logoColor=F2E9DD)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1A1512?style=flat-square&logo=javascript&logoColor=F2E9DD)
 ![PHP](https://img.shields.io/badge/PHP-1A1512?style=flat-square&logo=php&logoColor=F2E9DD)
 ![WordPress](https://img.shields.io/badge/WordPress-1A1512?style=flat-square&logo=wordpress&logoColor=F2E9DD)
@@ -85,8 +93,4 @@
   <a href="https://www.linkedin.com/in/miro-leblanc-4770b6442">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@MiroLeBlanc">YouTube</a>
-</p>
-
-<p align="center">
-  <code>00:00:00 &nbsp; ▼ SCROLLER ▼ &nbsp; ● REC 1080p</code>
 </p>
